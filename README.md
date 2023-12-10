@@ -15,15 +15,15 @@ Projects were assigned once a week, and we used the new material we learned each
 
 Here are the projects that I created over the semester:
 
-- [Project 1]() - Self Portrait
-- [Project 2]() - Clock
-- [Project 3]() - Interactive Portrait
-- [Project 4]() - Drawing Tool
-- [Project 5]() - Animated Wallpaper
-- [Project 6]() - Game of Life
-- [Project 7]() - Anime Popularity Statistics, Vizualized
-- [Project 8]() - Moving Landscape
-- [Project 9]() - Image Manipulation
-- [Project 10]() - Collectables Game
-- [Project 11]() - Collectables Game Continued
-- [Project 12]() - Platformer Game
+- [Project 1](https://github.com/bjaxqq/GDD140/tree/master/Project%201) - Self Portrait
+- [Project 2](https://github.com/bjaxqq/GDD140/tree/master/Project%202) - Clock
+- [Project 3](https://github.com/bjaxqq/GDD140/tree/master/Project%203) - Interactive Portrait
+- [Project 4](https://github.com/bjaxqq/GDD140/tree/master/Project%204) - Drawing Tool
+- [Project 5](https://github.com/bjaxqq/GDD140/tree/master/Project%205) - Animated Wallpaper
+- [Project 6](https://github.com/bjaxqq/GDD140/tree/master/Project%206) - Game of Life
+- [Project 7](https://github.com/bjaxqq/GDD140/tree/master/Project%207) - Anime Popularity Statistics, Vizualized
+- [Project 8](https://github.com/bjaxqq/GDD140/tree/master/Project%208) - Moving Landscape
+- [Project 9](https://github.com/bjaxqq/GDD140/tree/master/Project%209) - Image Manipulation
+- [Project 10](https://github.com/bjaxqq/GDD140/tree/master/Project%2010) - Collectables Game
+- [Project 11](https://github.com/bjaxqq/GDD140/tree/master/Project%2011) - Collectables Game Continued
+- [Project 12](https://github.com/bjaxqq/GDD140/tree/master/Project%2012) - Platformer Game
